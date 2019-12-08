@@ -1,2 +1,2 @@
-# vue-learning
-vue learning
+# avatar
+make your avatar automatically
